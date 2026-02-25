@@ -1,0 +1,3 @@
+cavalo = float (input("digite quantos cavalos tem na haras: "))
+soma = cavalo*4
+print("o total de ferraduras " , soma)

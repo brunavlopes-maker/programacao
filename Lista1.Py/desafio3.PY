@@ -1,0 +1,5 @@
+broas = float (input("Digite a quantidade de broas comercializados: "))
+paes = float (input("Digite a quantidade de paes comercializados "))
+total = (paes * 0.12) + (broas * 1.50 )
+print("o total arrecadado e ",total )
+print ("o total guardado na poupanca e ", total*0.10)
